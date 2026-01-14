@@ -1,6 +1,6 @@
 # Ines Felhi 
 # 💫 About Me:
-Étudiante en dernière année de génie informatique à l’ENIS, passionnée par l’Intelligence Artificielle, la Data Science, le Machine Learning et le DevOps.<br>Je m’intéresse au développement de solutions intelligentes, à l’analyse et au traitement des données, ainsi qu’à l’automatisation, l’intégration continue et le déploiement d’applications modernes.<br>Curieuse, motivée et orientée projet, je cherche constamment à renforcer mes compétences techniques à travers des projets concrets et des technologies modernes.
+Étudiante en dernière année de génie informatique à l’ENIS, passionnée par l’Intelligence Artificielle,le Machine Learning , la Data Science et le DevOps.<br>Je m’intéresse au développement de solutions intelligentes, à l’analyse et au traitement des données, ainsi qu’à l’automatisation, l’intégration continue et le déploiement d’applications modernes.<br>Curieuse, motivée et orientée projet, je cherche constamment à renforcer mes compétences techniques à travers des projets concrets et des technologies modernes.
 
 
 ## 🌐 Socials:
